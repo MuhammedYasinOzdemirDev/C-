@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Web-Gelistirme\C#\Çalışanlar Projesi Kalıtım\Çalışanlar Projesi Kalıtım\bin\Debug\net6.0\Çalışanlar Projesi Kalıtım.exe
+C:\Users\User\Desktop\Web-Gelistirme\C#\Çalışanlar Projesi Kalıtım\Çalışanlar Projesi Kalıtım\bin\Debug\net6.0\Çalışanlar Projesi Kalıtım.deps.json
+C:\Users\User\Desktop\Web-Gelistirme\C#\Çalışanlar Projesi Kalıtım\Çalışanlar Projesi Kalıtım\bin\Debug\net6.0\Çalışanlar Projesi Kalıtım.runtimeconfig.json
+C:\Users\User\Desktop\Web-Gelistirme\C#\Çalışanlar Projesi Kalıtım\Çalışanlar Projesi Kalıtım\bin\Debug\net6.0\Çalışanlar Projesi Kalıtım.dll
+C:\Users\User\Desktop\Web-Gelistirme\C#\Çalışanlar Projesi Kalıtım\Çalışanlar Projesi Kalıtım\bin\Debug\net6.0\Çalışanlar Projesi Kalıtım.pdb
+C:\Users\User\Desktop\Web-Gelistirme\C#\Çalışanlar Projesi Kalıtım\Çalışanlar Projesi Kalıtım\obj\Debug\net6.0\Çalışanlar Projesi Kalıtım.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Çalışanlar Projesi Kalıtım\Çalışanlar Projesi Kalıtım\obj\Debug\net6.0\Çalışanlar Projesi Kalıtım.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Web-Gelistirme\C#\Çalışanlar Projesi Kalıtım\Çalışanlar Projesi Kalıtım\obj\Debug\net6.0\Çalışanlar Projesi Kalıtım.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Çalışanlar Projesi Kalıtım\Çalışanlar Projesi Kalıtım\obj\Debug\net6.0\Çalışanlar Projesi Kalıtım.AssemblyInfo.cs
+C:\Users\User\Desktop\Web-Gelistirme\C#\Çalışanlar Projesi Kalıtım\Çalışanlar Projesi Kalıtım\obj\Debug\net6.0\Çalışanlar Projesi Kalıtım.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Çalışanlar Projesi Kalıtım\Çalışanlar Projesi Kalıtım\obj\Debug\net6.0\Çalışanlar Projesi Kalıtım.dll
+C:\Users\User\Desktop\Web-Gelistirme\C#\Çalışanlar Projesi Kalıtım\Çalışanlar Projesi Kalıtım\obj\Debug\net6.0\refint\Çalışanlar Projesi Kalıtım.dll
+C:\Users\User\Desktop\Web-Gelistirme\C#\Çalışanlar Projesi Kalıtım\Çalışanlar Projesi Kalıtım\obj\Debug\net6.0\Çalışanlar Projesi Kalıtım.pdb
+C:\Users\User\Desktop\Web-Gelistirme\C#\Çalışanlar Projesi Kalıtım\Çalışanlar Projesi Kalıtım\obj\Debug\net6.0\Çalışanlar Projesi Kalıtım.genruntimeconfig.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Çalışanlar Projesi Kalıtım\Çalışanlar Projesi Kalıtım\obj\Debug\net6.0\ref\Çalışanlar Projesi Kalıtım.dll

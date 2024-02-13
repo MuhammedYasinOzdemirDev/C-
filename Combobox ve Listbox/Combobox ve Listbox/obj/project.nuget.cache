@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "T6lxcqKTc85FCBUdqokQe9L/ZECOrzZh8w0L+jJ0b68AU0DIeRwuhL6fy8kEr+EyU1gSre/N9RapSHbzNgpcUw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Desktop\\Web-Gelistirme\\C#\\Combobox ve Listbox\\Combobox ve Listbox\\Combobox ve Listbox.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.19\\microsoft.windowsdesktop.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.19\\microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.19\\microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.19\\microsoft.netcore.app.host.win-x64.6.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}

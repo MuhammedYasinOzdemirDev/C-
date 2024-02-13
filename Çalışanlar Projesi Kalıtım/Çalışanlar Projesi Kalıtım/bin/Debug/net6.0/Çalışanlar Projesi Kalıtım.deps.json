@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Çalışanlar Projesi Kalıtım/1.0.0": {
+        "runtime": {
+          "Çalışanlar Projesi Kalıtım.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Çalışanlar Projesi Kalıtım/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

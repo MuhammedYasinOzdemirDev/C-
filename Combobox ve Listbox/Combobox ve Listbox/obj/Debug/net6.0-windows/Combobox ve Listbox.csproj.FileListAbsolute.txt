@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\Web-Gelistirme\C#\Combobox ve Listbox\Combobox ve Listbox\bin\Debug\net6.0-windows\Combobox ve Listbox.exe
+C:\Users\User\Desktop\Web-Gelistirme\C#\Combobox ve Listbox\Combobox ve Listbox\bin\Debug\net6.0-windows\Combobox ve Listbox.deps.json
+C:\Users\User\Desktop\Web-Gelistirme\C#\Combobox ve Listbox\Combobox ve Listbox\bin\Debug\net6.0-windows\Combobox ve Listbox.runtimeconfig.json
+C:\Users\User\Desktop\Web-Gelistirme\C#\Combobox ve Listbox\Combobox ve Listbox\bin\Debug\net6.0-windows\Combobox ve Listbox.dll
+C:\Users\User\Desktop\Web-Gelistirme\C#\Combobox ve Listbox\Combobox ve Listbox\bin\Debug\net6.0-windows\Combobox ve Listbox.pdb
+C:\Users\User\Desktop\Web-Gelistirme\C#\Combobox ve Listbox\Combobox ve Listbox\obj\Debug\net6.0-windows\Combobox ve Listbox.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Combobox ve Listbox\Combobox ve Listbox\obj\Debug\net6.0-windows\Combobox_ve_Listbox.Form1.resources
+C:\Users\User\Desktop\Web-Gelistirme\C#\Combobox ve Listbox\Combobox ve Listbox\obj\Debug\net6.0-windows\Combobox ve Listbox.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Combobox ve Listbox\Combobox ve Listbox\obj\Debug\net6.0-windows\Combobox ve Listbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Web-Gelistirme\C#\Combobox ve Listbox\Combobox ve Listbox\obj\Debug\net6.0-windows\Combobox ve Listbox.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Combobox ve Listbox\Combobox ve Listbox\obj\Debug\net6.0-windows\Combobox ve Listbox.AssemblyInfo.cs
+C:\Users\User\Desktop\Web-Gelistirme\C#\Combobox ve Listbox\Combobox ve Listbox\obj\Debug\net6.0-windows\Combobox ve Listbox.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Combobox ve Listbox\Combobox ve Listbox\obj\Debug\net6.0-windows\Combobox ve Listbox.dll
+C:\Users\User\Desktop\Web-Gelistirme\C#\Combobox ve Listbox\Combobox ve Listbox\obj\Debug\net6.0-windows\refint\Combobox ve Listbox.dll
+C:\Users\User\Desktop\Web-Gelistirme\C#\Combobox ve Listbox\Combobox ve Listbox\obj\Debug\net6.0-windows\Combobox ve Listbox.pdb
+C:\Users\User\Desktop\Web-Gelistirme\C#\Combobox ve Listbox\Combobox ve Listbox\obj\Debug\net6.0-windows\Combobox ve Listbox.genruntimeconfig.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Combobox ve Listbox\Combobox ve Listbox\obj\Debug\net6.0-windows\ref\Combobox ve Listbox.dll

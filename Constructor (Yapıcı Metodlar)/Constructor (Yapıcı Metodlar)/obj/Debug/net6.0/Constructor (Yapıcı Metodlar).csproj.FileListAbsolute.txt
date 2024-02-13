@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Web-Gelistirme\C#\Constructor (Yapıcı Metodlar)\Constructor (Yapıcı Metodlar)\bin\Debug\net6.0\Constructor (Yapıcı Metodlar).exe
+C:\Users\User\Desktop\Web-Gelistirme\C#\Constructor (Yapıcı Metodlar)\Constructor (Yapıcı Metodlar)\bin\Debug\net6.0\Constructor (Yapıcı Metodlar).deps.json
+C:\Users\User\Desktop\Web-Gelistirme\C#\Constructor (Yapıcı Metodlar)\Constructor (Yapıcı Metodlar)\bin\Debug\net6.0\Constructor (Yapıcı Metodlar).runtimeconfig.json
+C:\Users\User\Desktop\Web-Gelistirme\C#\Constructor (Yapıcı Metodlar)\Constructor (Yapıcı Metodlar)\bin\Debug\net6.0\Constructor (Yapıcı Metodlar).dll
+C:\Users\User\Desktop\Web-Gelistirme\C#\Constructor (Yapıcı Metodlar)\Constructor (Yapıcı Metodlar)\bin\Debug\net6.0\Constructor (Yapıcı Metodlar).pdb
+C:\Users\User\Desktop\Web-Gelistirme\C#\Constructor (Yapıcı Metodlar)\Constructor (Yapıcı Metodlar)\obj\Debug\net6.0\Constructor (Yapıcı Metodlar).csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Constructor (Yapıcı Metodlar)\Constructor (Yapıcı Metodlar)\obj\Debug\net6.0\Constructor (Yapıcı Metodlar).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Web-Gelistirme\C#\Constructor (Yapıcı Metodlar)\Constructor (Yapıcı Metodlar)\obj\Debug\net6.0\Constructor (Yapıcı Metodlar).AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Constructor (Yapıcı Metodlar)\Constructor (Yapıcı Metodlar)\obj\Debug\net6.0\Constructor (Yapıcı Metodlar).AssemblyInfo.cs
+C:\Users\User\Desktop\Web-Gelistirme\C#\Constructor (Yapıcı Metodlar)\Constructor (Yapıcı Metodlar)\obj\Debug\net6.0\Constructor (Yapıcı Metodlar).csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Constructor (Yapıcı Metodlar)\Constructor (Yapıcı Metodlar)\obj\Debug\net6.0\Constructor (Yapıcı Metodlar).dll
+C:\Users\User\Desktop\Web-Gelistirme\C#\Constructor (Yapıcı Metodlar)\Constructor (Yapıcı Metodlar)\obj\Debug\net6.0\refint\Constructor (Yapıcı Metodlar).dll
+C:\Users\User\Desktop\Web-Gelistirme\C#\Constructor (Yapıcı Metodlar)\Constructor (Yapıcı Metodlar)\obj\Debug\net6.0\Constructor (Yapıcı Metodlar).pdb
+C:\Users\User\Desktop\Web-Gelistirme\C#\Constructor (Yapıcı Metodlar)\Constructor (Yapıcı Metodlar)\obj\Debug\net6.0\Constructor (Yapıcı Metodlar).genruntimeconfig.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Constructor (Yapıcı Metodlar)\Constructor (Yapıcı Metodlar)\obj\Debug\net6.0\ref\Constructor (Yapıcı Metodlar).dll
