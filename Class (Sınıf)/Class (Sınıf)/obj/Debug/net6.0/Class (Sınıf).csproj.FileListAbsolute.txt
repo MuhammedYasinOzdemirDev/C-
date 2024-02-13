@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\Web-Gelistirme\C#\Class (Sınıf)\Class (Sınıf)\obj\Debug\net6.0\Class (Sınıf).csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Class (Sınıf)\Class (Sınıf)\obj\Debug\net6.0\Class (Sınıf).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Web-Gelistirme\C#\Class (Sınıf)\Class (Sınıf)\obj\Debug\net6.0\Class (Sınıf).AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Class (Sınıf)\Class (Sınıf)\obj\Debug\net6.0\Class (Sınıf).AssemblyInfo.cs
+C:\Users\User\Desktop\Web-Gelistirme\C#\Class (Sınıf)\Class (Sınıf)\obj\Debug\net6.0\Class (Sınıf).csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Web-Gelistirme\C#\Class_Sınıf\Class_Sınıf\bin\Debug\net6.0\Class_Sınıf.exe
+C:\Users\User\Desktop\Web-Gelistirme\C#\Class_Sınıf\Class_Sınıf\bin\Debug\net6.0\Class_Sınıf.deps.json
+C:\Users\User\Desktop\Web-Gelistirme\C#\Class_Sınıf\Class_Sınıf\bin\Debug\net6.0\Class_Sınıf.runtimeconfig.json
+C:\Users\User\Desktop\Web-Gelistirme\C#\Class_Sınıf\Class_Sınıf\bin\Debug\net6.0\Class_Sınıf.dll
+C:\Users\User\Desktop\Web-Gelistirme\C#\Class_Sınıf\Class_Sınıf\bin\Debug\net6.0\Class_Sınıf.pdb
+C:\Users\User\Desktop\Web-Gelistirme\C#\Class_Sınıf\Class_Sınıf\obj\Debug\net6.0\Class_Sınıf.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Class_Sınıf\Class_Sınıf\obj\Debug\net6.0\Class_Sınıf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Web-Gelistirme\C#\Class_Sınıf\Class_Sınıf\obj\Debug\net6.0\Class_Sınıf.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Class_Sınıf\Class_Sınıf\obj\Debug\net6.0\Class_Sınıf.AssemblyInfo.cs
+C:\Users\User\Desktop\Web-Gelistirme\C#\Class_Sınıf\Class_Sınıf\obj\Debug\net6.0\Class_Sınıf.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Class_Sınıf\Class_Sınıf\obj\Debug\net6.0\Class_Sınıf.dll
+C:\Users\User\Desktop\Web-Gelistirme\C#\Class_Sınıf\Class_Sınıf\obj\Debug\net6.0\refint\Class_Sınıf.dll
+C:\Users\User\Desktop\Web-Gelistirme\C#\Class_Sınıf\Class_Sınıf\obj\Debug\net6.0\Class_Sınıf.pdb
+C:\Users\User\Desktop\Web-Gelistirme\C#\Class_Sınıf\Class_Sınıf\obj\Debug\net6.0\Class_Sınıf.genruntimeconfig.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Class_Sınıf\Class_Sınıf\obj\Debug\net6.0\ref\Class_Sınıf.dll
