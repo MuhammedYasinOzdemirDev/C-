@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\Web-Gelistirme\C#\Değişkenler\Değişkenler\obj\Debug\net6.0\Değişkenler.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Değişkenler\Değişkenler\obj\Debug\net6.0\Değişkenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Web-Gelistirme\C#\Değişkenler\Değişkenler\obj\Debug\net6.0\Değişkenler.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Değişkenler\Değişkenler\obj\Debug\net6.0\Değişkenler.AssemblyInfo.cs
+C:\Users\User\Desktop\Web-Gelistirme\C#\Değişkenler\Değişkenler\obj\Debug\net6.0\Değişkenler.csproj.CoreCompileInputs.cache

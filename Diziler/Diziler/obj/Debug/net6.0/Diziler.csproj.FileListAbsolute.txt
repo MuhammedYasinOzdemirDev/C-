@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Web-Gelistirme\C#\Diziler\Diziler\bin\Debug\net6.0\Diziler.exe
+C:\Users\User\Desktop\Web-Gelistirme\C#\Diziler\Diziler\bin\Debug\net6.0\Diziler.deps.json
+C:\Users\User\Desktop\Web-Gelistirme\C#\Diziler\Diziler\bin\Debug\net6.0\Diziler.runtimeconfig.json
+C:\Users\User\Desktop\Web-Gelistirme\C#\Diziler\Diziler\bin\Debug\net6.0\Diziler.dll
+C:\Users\User\Desktop\Web-Gelistirme\C#\Diziler\Diziler\bin\Debug\net6.0\Diziler.pdb
+C:\Users\User\Desktop\Web-Gelistirme\C#\Diziler\Diziler\obj\Debug\net6.0\Diziler.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Diziler\Diziler\obj\Debug\net6.0\Diziler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Web-Gelistirme\C#\Diziler\Diziler\obj\Debug\net6.0\Diziler.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Diziler\Diziler\obj\Debug\net6.0\Diziler.AssemblyInfo.cs
+C:\Users\User\Desktop\Web-Gelistirme\C#\Diziler\Diziler\obj\Debug\net6.0\Diziler.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Diziler\Diziler\obj\Debug\net6.0\Diziler.dll
+C:\Users\User\Desktop\Web-Gelistirme\C#\Diziler\Diziler\obj\Debug\net6.0\refint\Diziler.dll
+C:\Users\User\Desktop\Web-Gelistirme\C#\Diziler\Diziler\obj\Debug\net6.0\Diziler.pdb
+C:\Users\User\Desktop\Web-Gelistirme\C#\Diziler\Diziler\obj\Debug\net6.0\Diziler.genruntimeconfig.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Diziler\Diziler\obj\Debug\net6.0\ref\Diziler.dll
