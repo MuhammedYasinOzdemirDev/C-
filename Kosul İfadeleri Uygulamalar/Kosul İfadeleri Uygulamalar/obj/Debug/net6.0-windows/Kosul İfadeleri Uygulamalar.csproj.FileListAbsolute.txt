@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\Web-Gelistirme\C#\Kosul İfadeleri Uygulamalar\Kosul İfadeleri Uygulamalar\bin\Debug\net6.0-windows\Kosul İfadeleri Uygulamalar.exe
+C:\Users\User\Desktop\Web-Gelistirme\C#\Kosul İfadeleri Uygulamalar\Kosul İfadeleri Uygulamalar\bin\Debug\net6.0-windows\Kosul İfadeleri Uygulamalar.deps.json
+C:\Users\User\Desktop\Web-Gelistirme\C#\Kosul İfadeleri Uygulamalar\Kosul İfadeleri Uygulamalar\bin\Debug\net6.0-windows\Kosul İfadeleri Uygulamalar.runtimeconfig.json
+C:\Users\User\Desktop\Web-Gelistirme\C#\Kosul İfadeleri Uygulamalar\Kosul İfadeleri Uygulamalar\bin\Debug\net6.0-windows\Kosul İfadeleri Uygulamalar.dll
+C:\Users\User\Desktop\Web-Gelistirme\C#\Kosul İfadeleri Uygulamalar\Kosul İfadeleri Uygulamalar\bin\Debug\net6.0-windows\Kosul İfadeleri Uygulamalar.pdb
+C:\Users\User\Desktop\Web-Gelistirme\C#\Kosul İfadeleri Uygulamalar\Kosul İfadeleri Uygulamalar\obj\Debug\net6.0-windows\Kosul İfadeleri Uygulamalar.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Kosul İfadeleri Uygulamalar\Kosul İfadeleri Uygulamalar\obj\Debug\net6.0-windows\Kosul_İfadeleri_Uygulamalar.Form1.resources
+C:\Users\User\Desktop\Web-Gelistirme\C#\Kosul İfadeleri Uygulamalar\Kosul İfadeleri Uygulamalar\obj\Debug\net6.0-windows\Kosul İfadeleri Uygulamalar.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Kosul İfadeleri Uygulamalar\Kosul İfadeleri Uygulamalar\obj\Debug\net6.0-windows\Kosul İfadeleri Uygulamalar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Web-Gelistirme\C#\Kosul İfadeleri Uygulamalar\Kosul İfadeleri Uygulamalar\obj\Debug\net6.0-windows\Kosul İfadeleri Uygulamalar.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Kosul İfadeleri Uygulamalar\Kosul İfadeleri Uygulamalar\obj\Debug\net6.0-windows\Kosul İfadeleri Uygulamalar.AssemblyInfo.cs
+C:\Users\User\Desktop\Web-Gelistirme\C#\Kosul İfadeleri Uygulamalar\Kosul İfadeleri Uygulamalar\obj\Debug\net6.0-windows\Kosul İfadeleri Uygulamalar.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Kosul İfadeleri Uygulamalar\Kosul İfadeleri Uygulamalar\obj\Debug\net6.0-windows\Kosul İfadeleri Uygulamalar.dll
+C:\Users\User\Desktop\Web-Gelistirme\C#\Kosul İfadeleri Uygulamalar\Kosul İfadeleri Uygulamalar\obj\Debug\net6.0-windows\refint\Kosul İfadeleri Uygulamalar.dll
+C:\Users\User\Desktop\Web-Gelistirme\C#\Kosul İfadeleri Uygulamalar\Kosul İfadeleri Uygulamalar\obj\Debug\net6.0-windows\Kosul İfadeleri Uygulamalar.pdb
+C:\Users\User\Desktop\Web-Gelistirme\C#\Kosul İfadeleri Uygulamalar\Kosul İfadeleri Uygulamalar\obj\Debug\net6.0-windows\Kosul İfadeleri Uygulamalar.genruntimeconfig.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Kosul İfadeleri Uygulamalar\Kosul İfadeleri Uygulamalar\obj\Debug\net6.0-windows\ref\Kosul İfadeleri Uygulamalar.dll

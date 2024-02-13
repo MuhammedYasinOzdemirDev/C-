@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Web-Gelistirme\C#\Kalıtım\Kalıtım\bin\Debug\net6.0\Kalıtım.exe
+C:\Users\User\Desktop\Web-Gelistirme\C#\Kalıtım\Kalıtım\bin\Debug\net6.0\Kalıtım.deps.json
+C:\Users\User\Desktop\Web-Gelistirme\C#\Kalıtım\Kalıtım\bin\Debug\net6.0\Kalıtım.runtimeconfig.json
+C:\Users\User\Desktop\Web-Gelistirme\C#\Kalıtım\Kalıtım\bin\Debug\net6.0\Kalıtım.dll
+C:\Users\User\Desktop\Web-Gelistirme\C#\Kalıtım\Kalıtım\bin\Debug\net6.0\Kalıtım.pdb
+C:\Users\User\Desktop\Web-Gelistirme\C#\Kalıtım\Kalıtım\obj\Debug\net6.0\Kalıtım.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Kalıtım\Kalıtım\obj\Debug\net6.0\Kalıtım.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Web-Gelistirme\C#\Kalıtım\Kalıtım\obj\Debug\net6.0\Kalıtım.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Kalıtım\Kalıtım\obj\Debug\net6.0\Kalıtım.AssemblyInfo.cs
+C:\Users\User\Desktop\Web-Gelistirme\C#\Kalıtım\Kalıtım\obj\Debug\net6.0\Kalıtım.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Kalıtım\Kalıtım\obj\Debug\net6.0\Kalıtım.dll
+C:\Users\User\Desktop\Web-Gelistirme\C#\Kalıtım\Kalıtım\obj\Debug\net6.0\refint\Kalıtım.dll
+C:\Users\User\Desktop\Web-Gelistirme\C#\Kalıtım\Kalıtım\obj\Debug\net6.0\Kalıtım.pdb
+C:\Users\User\Desktop\Web-Gelistirme\C#\Kalıtım\Kalıtım\obj\Debug\net6.0\Kalıtım.genruntimeconfig.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Kalıtım\Kalıtım\obj\Debug\net6.0\ref\Kalıtım.dll
