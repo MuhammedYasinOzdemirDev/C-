@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\Web-Gelistirme\C#\Temel Araç kullanımlari\Temel Araç kullanımlari\bin\Debug\net6.0-windows\Temel Araç kullanımlari.exe
+C:\Users\User\Desktop\Web-Gelistirme\C#\Temel Araç kullanımlari\Temel Araç kullanımlari\bin\Debug\net6.0-windows\Temel Araç kullanımlari.deps.json
+C:\Users\User\Desktop\Web-Gelistirme\C#\Temel Araç kullanımlari\Temel Araç kullanımlari\bin\Debug\net6.0-windows\Temel Araç kullanımlari.runtimeconfig.json
+C:\Users\User\Desktop\Web-Gelistirme\C#\Temel Araç kullanımlari\Temel Araç kullanımlari\bin\Debug\net6.0-windows\Temel Araç kullanımlari.dll
+C:\Users\User\Desktop\Web-Gelistirme\C#\Temel Araç kullanımlari\Temel Araç kullanımlari\bin\Debug\net6.0-windows\Temel Araç kullanımlari.pdb
+C:\Users\User\Desktop\Web-Gelistirme\C#\Temel Araç kullanımlari\Temel Araç kullanımlari\obj\Debug\net6.0-windows\Temel Araç kullanımlari.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Temel Araç kullanımlari\Temel Araç kullanımlari\obj\Debug\net6.0-windows\Temel_Araç_kullanımlari.Form1.resources
+C:\Users\User\Desktop\Web-Gelistirme\C#\Temel Araç kullanımlari\Temel Araç kullanımlari\obj\Debug\net6.0-windows\Temel Araç kullanımlari.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Temel Araç kullanımlari\Temel Araç kullanımlari\obj\Debug\net6.0-windows\Temel Araç kullanımlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Web-Gelistirme\C#\Temel Araç kullanımlari\Temel Araç kullanımlari\obj\Debug\net6.0-windows\Temel Araç kullanımlari.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Temel Araç kullanımlari\Temel Araç kullanımlari\obj\Debug\net6.0-windows\Temel Araç kullanımlari.AssemblyInfo.cs
+C:\Users\User\Desktop\Web-Gelistirme\C#\Temel Araç kullanımlari\Temel Araç kullanımlari\obj\Debug\net6.0-windows\Temel Araç kullanımlari.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Temel Araç kullanımlari\Temel Araç kullanımlari\obj\Debug\net6.0-windows\Temel Araç kullanımlari.dll
+C:\Users\User\Desktop\Web-Gelistirme\C#\Temel Araç kullanımlari\Temel Araç kullanımlari\obj\Debug\net6.0-windows\refint\Temel Araç kullanımlari.dll
+C:\Users\User\Desktop\Web-Gelistirme\C#\Temel Araç kullanımlari\Temel Araç kullanımlari\obj\Debug\net6.0-windows\Temel Araç kullanımlari.pdb
+C:\Users\User\Desktop\Web-Gelistirme\C#\Temel Araç kullanımlari\Temel Araç kullanımlari\obj\Debug\net6.0-windows\Temel Araç kullanımlari.genruntimeconfig.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Temel Araç kullanımlari\Temel Araç kullanımlari\obj\Debug\net6.0-windows\ref\Temel Araç kullanımlari.dll
