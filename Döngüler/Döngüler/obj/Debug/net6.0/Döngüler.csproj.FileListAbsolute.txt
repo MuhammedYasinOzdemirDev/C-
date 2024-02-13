@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Web-Gelistirme\C#\Döngüler\Döngüler\bin\Debug\net6.0\Döngüler.exe
+C:\Users\User\Desktop\Web-Gelistirme\C#\Döngüler\Döngüler\bin\Debug\net6.0\Döngüler.deps.json
+C:\Users\User\Desktop\Web-Gelistirme\C#\Döngüler\Döngüler\bin\Debug\net6.0\Döngüler.runtimeconfig.json
+C:\Users\User\Desktop\Web-Gelistirme\C#\Döngüler\Döngüler\bin\Debug\net6.0\Döngüler.dll
+C:\Users\User\Desktop\Web-Gelistirme\C#\Döngüler\Döngüler\bin\Debug\net6.0\Döngüler.pdb
+C:\Users\User\Desktop\Web-Gelistirme\C#\Döngüler\Döngüler\obj\Debug\net6.0\Döngüler.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Döngüler\Döngüler\obj\Debug\net6.0\Döngüler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Web-Gelistirme\C#\Döngüler\Döngüler\obj\Debug\net6.0\Döngüler.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Döngüler\Döngüler\obj\Debug\net6.0\Döngüler.AssemblyInfo.cs
+C:\Users\User\Desktop\Web-Gelistirme\C#\Döngüler\Döngüler\obj\Debug\net6.0\Döngüler.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Döngüler\Döngüler\obj\Debug\net6.0\Döngüler.dll
+C:\Users\User\Desktop\Web-Gelistirme\C#\Döngüler\Döngüler\obj\Debug\net6.0\refint\Döngüler.dll
+C:\Users\User\Desktop\Web-Gelistirme\C#\Döngüler\Döngüler\obj\Debug\net6.0\Döngüler.pdb
+C:\Users\User\Desktop\Web-Gelistirme\C#\Döngüler\Döngüler\obj\Debug\net6.0\Döngüler.genruntimeconfig.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Döngüler\Döngüler\obj\Debug\net6.0\ref\Döngüler.dll
