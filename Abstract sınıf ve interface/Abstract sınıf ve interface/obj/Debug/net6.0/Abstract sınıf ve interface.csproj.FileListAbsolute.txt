@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Web-Gelistirme\C#\Abstract sınıf ve interface\Abstract sınıf ve interface\bin\Debug\net6.0\Abstract sınıf ve interface.exe
+C:\Users\User\Desktop\Web-Gelistirme\C#\Abstract sınıf ve interface\Abstract sınıf ve interface\bin\Debug\net6.0\Abstract sınıf ve interface.deps.json
+C:\Users\User\Desktop\Web-Gelistirme\C#\Abstract sınıf ve interface\Abstract sınıf ve interface\bin\Debug\net6.0\Abstract sınıf ve interface.runtimeconfig.json
+C:\Users\User\Desktop\Web-Gelistirme\C#\Abstract sınıf ve interface\Abstract sınıf ve interface\bin\Debug\net6.0\Abstract sınıf ve interface.dll
+C:\Users\User\Desktop\Web-Gelistirme\C#\Abstract sınıf ve interface\Abstract sınıf ve interface\bin\Debug\net6.0\Abstract sınıf ve interface.pdb
+C:\Users\User\Desktop\Web-Gelistirme\C#\Abstract sınıf ve interface\Abstract sınıf ve interface\obj\Debug\net6.0\Abstract sınıf ve interface.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Abstract sınıf ve interface\Abstract sınıf ve interface\obj\Debug\net6.0\Abstract sınıf ve interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Web-Gelistirme\C#\Abstract sınıf ve interface\Abstract sınıf ve interface\obj\Debug\net6.0\Abstract sınıf ve interface.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Abstract sınıf ve interface\Abstract sınıf ve interface\obj\Debug\net6.0\Abstract sınıf ve interface.AssemblyInfo.cs
+C:\Users\User\Desktop\Web-Gelistirme\C#\Abstract sınıf ve interface\Abstract sınıf ve interface\obj\Debug\net6.0\Abstract sınıf ve interface.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Abstract sınıf ve interface\Abstract sınıf ve interface\obj\Debug\net6.0\Abstract sınıf ve interface.dll
+C:\Users\User\Desktop\Web-Gelistirme\C#\Abstract sınıf ve interface\Abstract sınıf ve interface\obj\Debug\net6.0\refint\Abstract sınıf ve interface.dll
+C:\Users\User\Desktop\Web-Gelistirme\C#\Abstract sınıf ve interface\Abstract sınıf ve interface\obj\Debug\net6.0\Abstract sınıf ve interface.pdb
+C:\Users\User\Desktop\Web-Gelistirme\C#\Abstract sınıf ve interface\Abstract sınıf ve interface\obj\Debug\net6.0\Abstract sınıf ve interface.genruntimeconfig.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Abstract sınıf ve interface\Abstract sınıf ve interface\obj\Debug\net6.0\ref\Abstract sınıf ve interface.dll

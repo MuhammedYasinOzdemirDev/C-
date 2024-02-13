@@ -1,0 +1,18 @@
+C:\Users\User\Desktop\Web-Gelistirme\C#\Bilgi Yarismasi\Bilgi Yarismasi\bin\Debug\net6.0-windows\Bilgi Yarismasi.exe
+C:\Users\User\Desktop\Web-Gelistirme\C#\Bilgi Yarismasi\Bilgi Yarismasi\bin\Debug\net6.0-windows\Bilgi Yarismasi.deps.json
+C:\Users\User\Desktop\Web-Gelistirme\C#\Bilgi Yarismasi\Bilgi Yarismasi\bin\Debug\net6.0-windows\Bilgi Yarismasi.runtimeconfig.json
+C:\Users\User\Desktop\Web-Gelistirme\C#\Bilgi Yarismasi\Bilgi Yarismasi\bin\Debug\net6.0-windows\Bilgi Yarismasi.dll
+C:\Users\User\Desktop\Web-Gelistirme\C#\Bilgi Yarismasi\Bilgi Yarismasi\bin\Debug\net6.0-windows\Bilgi Yarismasi.pdb
+C:\Users\User\Desktop\Web-Gelistirme\C#\Bilgi Yarismasi\Bilgi Yarismasi\obj\Debug\net6.0-windows\Bilgi Yarismasi.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Bilgi Yarismasi\Bilgi Yarismasi\obj\Debug\net6.0-windows\Bilgi_Yarismasi.Form1.resources
+C:\Users\User\Desktop\Web-Gelistirme\C#\Bilgi Yarismasi\Bilgi Yarismasi\obj\Debug\net6.0-windows\Bilgi_Yarismasi.Properties.Resources.resources
+C:\Users\User\Desktop\Web-Gelistirme\C#\Bilgi Yarismasi\Bilgi Yarismasi\obj\Debug\net6.0-windows\Bilgi Yarismasi.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Bilgi Yarismasi\Bilgi Yarismasi\obj\Debug\net6.0-windows\Bilgi Yarismasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Web-Gelistirme\C#\Bilgi Yarismasi\Bilgi Yarismasi\obj\Debug\net6.0-windows\Bilgi Yarismasi.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Bilgi Yarismasi\Bilgi Yarismasi\obj\Debug\net6.0-windows\Bilgi Yarismasi.AssemblyInfo.cs
+C:\Users\User\Desktop\Web-Gelistirme\C#\Bilgi Yarismasi\Bilgi Yarismasi\obj\Debug\net6.0-windows\Bilgi Yarismasi.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Bilgi Yarismasi\Bilgi Yarismasi\obj\Debug\net6.0-windows\Bilgi Yarismasi.dll
+C:\Users\User\Desktop\Web-Gelistirme\C#\Bilgi Yarismasi\Bilgi Yarismasi\obj\Debug\net6.0-windows\refint\Bilgi Yarismasi.dll
+C:\Users\User\Desktop\Web-Gelistirme\C#\Bilgi Yarismasi\Bilgi Yarismasi\obj\Debug\net6.0-windows\Bilgi Yarismasi.pdb
+C:\Users\User\Desktop\Web-Gelistirme\C#\Bilgi Yarismasi\Bilgi Yarismasi\obj\Debug\net6.0-windows\Bilgi Yarismasi.genruntimeconfig.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Bilgi Yarismasi\Bilgi Yarismasi\obj\Debug\net6.0-windows\ref\Bilgi Yarismasi.dll

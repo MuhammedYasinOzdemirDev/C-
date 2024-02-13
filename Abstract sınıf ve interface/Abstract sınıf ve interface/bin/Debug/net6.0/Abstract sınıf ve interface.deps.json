@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Abstract sınıf ve interface/1.0.0": {
+        "runtime": {
+          "Abstract sınıf ve interface.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Abstract sınıf ve interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
