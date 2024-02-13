@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\Web-Gelistirme\C#\Revap Dama\Revap Dama\obj\Debug\net6.0-windows\Revap Dama.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Revap Dama\Revap Dama\obj\Debug\net6.0-windows\Revap_Dama.Form1.resources
+C:\Users\User\Desktop\Web-Gelistirme\C#\Revap Dama\Revap Dama\obj\Debug\net6.0-windows\Revap Dama.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Revap Dama\Revap Dama\obj\Debug\net6.0-windows\Revap Dama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Web-Gelistirme\C#\Revap Dama\Revap Dama\obj\Debug\net6.0-windows\Revap Dama.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Revap Dama\Revap Dama\obj\Debug\net6.0-windows\Revap Dama.AssemblyInfo.cs
+C:\Users\User\Desktop\Web-Gelistirme\C#\Revap Dama\Revap Dama\obj\Debug\net6.0-windows\Revap Dama.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Revap Dama\Revap Dama\bin\Debug\net6.0-windows\Revap Dama.exe
+C:\Users\User\Desktop\Web-Gelistirme\C#\Revap Dama\Revap Dama\bin\Debug\net6.0-windows\Revap Dama.deps.json
+C:\Users\User\Desktop\Web-Gelistirme\C#\Revap Dama\Revap Dama\bin\Debug\net6.0-windows\Revap Dama.runtimeconfig.json
+C:\Users\User\Desktop\Web-Gelistirme\C#\Revap Dama\Revap Dama\bin\Debug\net6.0-windows\Revap Dama.dll
+C:\Users\User\Desktop\Web-Gelistirme\C#\Revap Dama\Revap Dama\bin\Debug\net6.0-windows\Revap Dama.pdb
+C:\Users\User\Desktop\Web-Gelistirme\C#\Revap Dama\Revap Dama\obj\Debug\net6.0-windows\Revap Dama.dll
+C:\Users\User\Desktop\Web-Gelistirme\C#\Revap Dama\Revap Dama\obj\Debug\net6.0-windows\refint\Revap Dama.dll
+C:\Users\User\Desktop\Web-Gelistirme\C#\Revap Dama\Revap Dama\obj\Debug\net6.0-windows\Revap Dama.pdb
+C:\Users\User\Desktop\Web-Gelistirme\C#\Revap Dama\Revap Dama\obj\Debug\net6.0-windows\Revap Dama.genruntimeconfig.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Revap Dama\Revap Dama\obj\Debug\net6.0-windows\ref\Revap Dama.dll

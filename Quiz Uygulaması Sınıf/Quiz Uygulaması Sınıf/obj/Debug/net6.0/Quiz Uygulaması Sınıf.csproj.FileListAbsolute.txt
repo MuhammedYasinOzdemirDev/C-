@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Web-Gelistirme\C#\Quiz Uygulaması Sınıf\Quiz Uygulaması Sınıf\bin\Debug\net6.0\Quiz Uygulaması Sınıf.exe
+C:\Users\User\Desktop\Web-Gelistirme\C#\Quiz Uygulaması Sınıf\Quiz Uygulaması Sınıf\bin\Debug\net6.0\Quiz Uygulaması Sınıf.deps.json
+C:\Users\User\Desktop\Web-Gelistirme\C#\Quiz Uygulaması Sınıf\Quiz Uygulaması Sınıf\bin\Debug\net6.0\Quiz Uygulaması Sınıf.runtimeconfig.json
+C:\Users\User\Desktop\Web-Gelistirme\C#\Quiz Uygulaması Sınıf\Quiz Uygulaması Sınıf\bin\Debug\net6.0\Quiz Uygulaması Sınıf.dll
+C:\Users\User\Desktop\Web-Gelistirme\C#\Quiz Uygulaması Sınıf\Quiz Uygulaması Sınıf\bin\Debug\net6.0\Quiz Uygulaması Sınıf.pdb
+C:\Users\User\Desktop\Web-Gelistirme\C#\Quiz Uygulaması Sınıf\Quiz Uygulaması Sınıf\obj\Debug\net6.0\Quiz Uygulaması Sınıf.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Quiz Uygulaması Sınıf\Quiz Uygulaması Sınıf\obj\Debug\net6.0\Quiz Uygulaması Sınıf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Web-Gelistirme\C#\Quiz Uygulaması Sınıf\Quiz Uygulaması Sınıf\obj\Debug\net6.0\Quiz Uygulaması Sınıf.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Quiz Uygulaması Sınıf\Quiz Uygulaması Sınıf\obj\Debug\net6.0\Quiz Uygulaması Sınıf.AssemblyInfo.cs
+C:\Users\User\Desktop\Web-Gelistirme\C#\Quiz Uygulaması Sınıf\Quiz Uygulaması Sınıf\obj\Debug\net6.0\Quiz Uygulaması Sınıf.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Quiz Uygulaması Sınıf\Quiz Uygulaması Sınıf\obj\Debug\net6.0\Quiz Uygulaması Sınıf.dll
+C:\Users\User\Desktop\Web-Gelistirme\C#\Quiz Uygulaması Sınıf\Quiz Uygulaması Sınıf\obj\Debug\net6.0\refint\Quiz Uygulaması Sınıf.dll
+C:\Users\User\Desktop\Web-Gelistirme\C#\Quiz Uygulaması Sınıf\Quiz Uygulaması Sınıf\obj\Debug\net6.0\Quiz Uygulaması Sınıf.pdb
+C:\Users\User\Desktop\Web-Gelistirme\C#\Quiz Uygulaması Sınıf\Quiz Uygulaması Sınıf\obj\Debug\net6.0\Quiz Uygulaması Sınıf.genruntimeconfig.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Quiz Uygulaması Sınıf\Quiz Uygulaması Sınıf\obj\Debug\net6.0\ref\Quiz Uygulaması Sınıf.dll

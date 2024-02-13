@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Sinema Büfesi Satış Uygulamasi/1.0.0": {
+        "runtime": {
+          "Sinema Büfesi Satış Uygulamasi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sinema Büfesi Satış Uygulamasi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
