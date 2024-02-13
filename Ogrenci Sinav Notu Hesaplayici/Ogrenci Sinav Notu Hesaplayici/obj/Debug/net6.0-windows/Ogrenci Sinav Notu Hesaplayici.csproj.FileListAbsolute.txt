@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\Web-Gelistirme\C#\Ogrenci Sinav Notu Hesaplayici\Ogrenci Sinav Notu Hesaplayici\bin\Debug\net6.0-windows\Ogrenci Sinav Notu Hesaplayici.exe
+C:\Users\User\Desktop\Web-Gelistirme\C#\Ogrenci Sinav Notu Hesaplayici\Ogrenci Sinav Notu Hesaplayici\bin\Debug\net6.0-windows\Ogrenci Sinav Notu Hesaplayici.deps.json
+C:\Users\User\Desktop\Web-Gelistirme\C#\Ogrenci Sinav Notu Hesaplayici\Ogrenci Sinav Notu Hesaplayici\bin\Debug\net6.0-windows\Ogrenci Sinav Notu Hesaplayici.runtimeconfig.json
+C:\Users\User\Desktop\Web-Gelistirme\C#\Ogrenci Sinav Notu Hesaplayici\Ogrenci Sinav Notu Hesaplayici\bin\Debug\net6.0-windows\Ogrenci Sinav Notu Hesaplayici.dll
+C:\Users\User\Desktop\Web-Gelistirme\C#\Ogrenci Sinav Notu Hesaplayici\Ogrenci Sinav Notu Hesaplayici\bin\Debug\net6.0-windows\Ogrenci Sinav Notu Hesaplayici.pdb
+C:\Users\User\Desktop\Web-Gelistirme\C#\Ogrenci Sinav Notu Hesaplayici\Ogrenci Sinav Notu Hesaplayici\obj\Debug\net6.0-windows\Ogrenci Sinav Notu Hesaplayici.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Ogrenci Sinav Notu Hesaplayici\Ogrenci Sinav Notu Hesaplayici\obj\Debug\net6.0-windows\Ogrenci_Sinav_Notu_Hesaplayici.Form1.resources
+C:\Users\User\Desktop\Web-Gelistirme\C#\Ogrenci Sinav Notu Hesaplayici\Ogrenci Sinav Notu Hesaplayici\obj\Debug\net6.0-windows\Ogrenci Sinav Notu Hesaplayici.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Ogrenci Sinav Notu Hesaplayici\Ogrenci Sinav Notu Hesaplayici\obj\Debug\net6.0-windows\Ogrenci Sinav Notu Hesaplayici.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Web-Gelistirme\C#\Ogrenci Sinav Notu Hesaplayici\Ogrenci Sinav Notu Hesaplayici\obj\Debug\net6.0-windows\Ogrenci Sinav Notu Hesaplayici.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Ogrenci Sinav Notu Hesaplayici\Ogrenci Sinav Notu Hesaplayici\obj\Debug\net6.0-windows\Ogrenci Sinav Notu Hesaplayici.AssemblyInfo.cs
+C:\Users\User\Desktop\Web-Gelistirme\C#\Ogrenci Sinav Notu Hesaplayici\Ogrenci Sinav Notu Hesaplayici\obj\Debug\net6.0-windows\Ogrenci Sinav Notu Hesaplayici.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Ogrenci Sinav Notu Hesaplayici\Ogrenci Sinav Notu Hesaplayici\obj\Debug\net6.0-windows\Ogrenci Sinav Notu Hesaplayici.dll
+C:\Users\User\Desktop\Web-Gelistirme\C#\Ogrenci Sinav Notu Hesaplayici\Ogrenci Sinav Notu Hesaplayici\obj\Debug\net6.0-windows\refint\Ogrenci Sinav Notu Hesaplayici.dll
+C:\Users\User\Desktop\Web-Gelistirme\C#\Ogrenci Sinav Notu Hesaplayici\Ogrenci Sinav Notu Hesaplayici\obj\Debug\net6.0-windows\Ogrenci Sinav Notu Hesaplayici.pdb
+C:\Users\User\Desktop\Web-Gelistirme\C#\Ogrenci Sinav Notu Hesaplayici\Ogrenci Sinav Notu Hesaplayici\obj\Debug\net6.0-windows\Ogrenci Sinav Notu Hesaplayici.genruntimeconfig.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Ogrenci Sinav Notu Hesaplayici\Ogrenci Sinav Notu Hesaplayici\obj\Debug\net6.0-windows\ref\Ogrenci Sinav Notu Hesaplayici.dll
