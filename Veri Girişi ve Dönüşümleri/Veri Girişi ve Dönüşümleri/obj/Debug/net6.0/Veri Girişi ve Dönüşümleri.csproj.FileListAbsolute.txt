@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Web-Gelistirme\C#\Veri Girişi ve Dönüşümleri\Veri Girişi ve Dönüşümleri\obj\Debug\net6.0\Veri Girişi ve Dönüşümleri.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Veri Girişi ve Dönüşümleri\Veri Girişi ve Dönüşümleri\obj\Debug\net6.0\Veri Girişi ve Dönüşümleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Web-Gelistirme\C#\Veri Girişi ve Dönüşümleri\Veri Girişi ve Dönüşümleri\obj\Debug\net6.0\Veri Girişi ve Dönüşümleri.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Veri Girişi ve Dönüşümleri\Veri Girişi ve Dönüşümleri\obj\Debug\net6.0\Veri Girişi ve Dönüşümleri.AssemblyInfo.cs
+C:\Users\User\Desktop\Web-Gelistirme\C#\Veri Girişi ve Dönüşümleri\Veri Girişi ve Dönüşümleri\obj\Debug\net6.0\Veri Girişi ve Dönüşümleri.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Veri Girişi ve Dönüşümleri\Veri Girişi ve Dönüşümleri\bin\Debug\net6.0\Veri Girişi ve Dönüşümleri.exe
+C:\Users\User\Desktop\Web-Gelistirme\C#\Veri Girişi ve Dönüşümleri\Veri Girişi ve Dönüşümleri\bin\Debug\net6.0\Veri Girişi ve Dönüşümleri.deps.json
+C:\Users\User\Desktop\Web-Gelistirme\C#\Veri Girişi ve Dönüşümleri\Veri Girişi ve Dönüşümleri\bin\Debug\net6.0\Veri Girişi ve Dönüşümleri.runtimeconfig.json
+C:\Users\User\Desktop\Web-Gelistirme\C#\Veri Girişi ve Dönüşümleri\Veri Girişi ve Dönüşümleri\bin\Debug\net6.0\Veri Girişi ve Dönüşümleri.dll
+C:\Users\User\Desktop\Web-Gelistirme\C#\Veri Girişi ve Dönüşümleri\Veri Girişi ve Dönüşümleri\bin\Debug\net6.0\Veri Girişi ve Dönüşümleri.pdb
+C:\Users\User\Desktop\Web-Gelistirme\C#\Veri Girişi ve Dönüşümleri\Veri Girişi ve Dönüşümleri\obj\Debug\net6.0\Veri Girişi ve Dönüşümleri.dll
+C:\Users\User\Desktop\Web-Gelistirme\C#\Veri Girişi ve Dönüşümleri\Veri Girişi ve Dönüşümleri\obj\Debug\net6.0\refint\Veri Girişi ve Dönüşümleri.dll
+C:\Users\User\Desktop\Web-Gelistirme\C#\Veri Girişi ve Dönüşümleri\Veri Girişi ve Dönüşümleri\obj\Debug\net6.0\Veri Girişi ve Dönüşümleri.pdb
+C:\Users\User\Desktop\Web-Gelistirme\C#\Veri Girişi ve Dönüşümleri\Veri Girişi ve Dönüşümleri\obj\Debug\net6.0\Veri Girişi ve Dönüşümleri.genruntimeconfig.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Veri Girişi ve Dönüşümleri\Veri Girişi ve Dönüşümleri\obj\Debug\net6.0\ref\Veri Girişi ve Dönüşümleri.dll

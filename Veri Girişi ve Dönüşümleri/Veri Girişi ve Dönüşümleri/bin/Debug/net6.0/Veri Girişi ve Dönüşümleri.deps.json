@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Veri Girişi ve Dönüşümleri/1.0.0": {
+        "runtime": {
+          "Veri Girişi ve Dönüşümleri.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Veri Girişi ve Dönüşümleri/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
