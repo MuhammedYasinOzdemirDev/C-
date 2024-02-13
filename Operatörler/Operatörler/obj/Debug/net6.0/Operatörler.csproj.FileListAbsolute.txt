@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Web-Gelistirme\C#\Operatörler\Operatörler\bin\Debug\net6.0\Operatörler.exe
+C:\Users\User\Desktop\Web-Gelistirme\C#\Operatörler\Operatörler\bin\Debug\net6.0\Operatörler.deps.json
+C:\Users\User\Desktop\Web-Gelistirme\C#\Operatörler\Operatörler\bin\Debug\net6.0\Operatörler.runtimeconfig.json
+C:\Users\User\Desktop\Web-Gelistirme\C#\Operatörler\Operatörler\bin\Debug\net6.0\Operatörler.dll
+C:\Users\User\Desktop\Web-Gelistirme\C#\Operatörler\Operatörler\bin\Debug\net6.0\Operatörler.pdb
+C:\Users\User\Desktop\Web-Gelistirme\C#\Operatörler\Operatörler\obj\Debug\net6.0\Operatörler.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Operatörler\Operatörler\obj\Debug\net6.0\Operatörler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Web-Gelistirme\C#\Operatörler\Operatörler\obj\Debug\net6.0\Operatörler.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Operatörler\Operatörler\obj\Debug\net6.0\Operatörler.AssemblyInfo.cs
+C:\Users\User\Desktop\Web-Gelistirme\C#\Operatörler\Operatörler\obj\Debug\net6.0\Operatörler.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Operatörler\Operatörler\obj\Debug\net6.0\Operatörler.dll
+C:\Users\User\Desktop\Web-Gelistirme\C#\Operatörler\Operatörler\obj\Debug\net6.0\refint\Operatörler.dll
+C:\Users\User\Desktop\Web-Gelistirme\C#\Operatörler\Operatörler\obj\Debug\net6.0\Operatörler.pdb
+C:\Users\User\Desktop\Web-Gelistirme\C#\Operatörler\Operatörler\obj\Debug\net6.0\Operatörler.genruntimeconfig.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Operatörler\Operatörler\obj\Debug\net6.0\ref\Operatörler.dll

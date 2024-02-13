@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\Web-Gelistirme\C#\Online Giriş Paneli\Online Giriş Paneli\bin\Debug\net6.0-windows\Online Giriş Paneli.exe
+C:\Users\User\Desktop\Web-Gelistirme\C#\Online Giriş Paneli\Online Giriş Paneli\bin\Debug\net6.0-windows\Online Giriş Paneli.deps.json
+C:\Users\User\Desktop\Web-Gelistirme\C#\Online Giriş Paneli\Online Giriş Paneli\bin\Debug\net6.0-windows\Online Giriş Paneli.runtimeconfig.json
+C:\Users\User\Desktop\Web-Gelistirme\C#\Online Giriş Paneli\Online Giriş Paneli\bin\Debug\net6.0-windows\Online Giriş Paneli.dll
+C:\Users\User\Desktop\Web-Gelistirme\C#\Online Giriş Paneli\Online Giriş Paneli\bin\Debug\net6.0-windows\Online Giriş Paneli.pdb
+C:\Users\User\Desktop\Web-Gelistirme\C#\Online Giriş Paneli\Online Giriş Paneli\obj\Debug\net6.0-windows\Online Giriş Paneli.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Online Giriş Paneli\Online Giriş Paneli\obj\Debug\net6.0-windows\Online_Giriş_Paneli.Form1.resources
+C:\Users\User\Desktop\Web-Gelistirme\C#\Online Giriş Paneli\Online Giriş Paneli\obj\Debug\net6.0-windows\Online Giriş Paneli.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Online Giriş Paneli\Online Giriş Paneli\obj\Debug\net6.0-windows\Online Giriş Paneli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Web-Gelistirme\C#\Online Giriş Paneli\Online Giriş Paneli\obj\Debug\net6.0-windows\Online Giriş Paneli.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Online Giriş Paneli\Online Giriş Paneli\obj\Debug\net6.0-windows\Online Giriş Paneli.AssemblyInfo.cs
+C:\Users\User\Desktop\Web-Gelistirme\C#\Online Giriş Paneli\Online Giriş Paneli\obj\Debug\net6.0-windows\Online Giriş Paneli.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Online Giriş Paneli\Online Giriş Paneli\obj\Debug\net6.0-windows\Online Giriş Paneli.dll
+C:\Users\User\Desktop\Web-Gelistirme\C#\Online Giriş Paneli\Online Giriş Paneli\obj\Debug\net6.0-windows\refint\Online Giriş Paneli.dll
+C:\Users\User\Desktop\Web-Gelistirme\C#\Online Giriş Paneli\Online Giriş Paneli\obj\Debug\net6.0-windows\Online Giriş Paneli.pdb
+C:\Users\User\Desktop\Web-Gelistirme\C#\Online Giriş Paneli\Online Giriş Paneli\obj\Debug\net6.0-windows\Online Giriş Paneli.genruntimeconfig.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Online Giriş Paneli\Online Giriş Paneli\obj\Debug\net6.0-windows\ref\Online Giriş Paneli.dll
