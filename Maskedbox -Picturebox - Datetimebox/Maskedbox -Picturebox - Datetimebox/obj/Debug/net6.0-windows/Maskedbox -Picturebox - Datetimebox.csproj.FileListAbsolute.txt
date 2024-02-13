@@ -1,0 +1,18 @@
+C:\Users\User\Desktop\Web-Gelistirme\C#\Maskedbox -Picturebox - Datetimebox\Maskedbox -Picturebox - Datetimebox\bin\Debug\net6.0-windows\Maskedbox -Picturebox - Datetimebox.exe
+C:\Users\User\Desktop\Web-Gelistirme\C#\Maskedbox -Picturebox - Datetimebox\Maskedbox -Picturebox - Datetimebox\bin\Debug\net6.0-windows\Maskedbox -Picturebox - Datetimebox.deps.json
+C:\Users\User\Desktop\Web-Gelistirme\C#\Maskedbox -Picturebox - Datetimebox\Maskedbox -Picturebox - Datetimebox\bin\Debug\net6.0-windows\Maskedbox -Picturebox - Datetimebox.runtimeconfig.json
+C:\Users\User\Desktop\Web-Gelistirme\C#\Maskedbox -Picturebox - Datetimebox\Maskedbox -Picturebox - Datetimebox\bin\Debug\net6.0-windows\Maskedbox -Picturebox - Datetimebox.dll
+C:\Users\User\Desktop\Web-Gelistirme\C#\Maskedbox -Picturebox - Datetimebox\Maskedbox -Picturebox - Datetimebox\bin\Debug\net6.0-windows\Maskedbox -Picturebox - Datetimebox.pdb
+C:\Users\User\Desktop\Web-Gelistirme\C#\Maskedbox -Picturebox - Datetimebox\Maskedbox -Picturebox - Datetimebox\obj\Debug\net6.0-windows\Maskedbox -Picturebox - Datetimebox.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Maskedbox -Picturebox - Datetimebox\Maskedbox -Picturebox - Datetimebox\obj\Debug\net6.0-windows\Maskedbox__Picturebox___Datetimebox.Form1.resources
+C:\Users\User\Desktop\Web-Gelistirme\C#\Maskedbox -Picturebox - Datetimebox\Maskedbox -Picturebox - Datetimebox\obj\Debug\net6.0-windows\Maskedbox__Picturebox___Datetimebox.Properties.Resources.resources
+C:\Users\User\Desktop\Web-Gelistirme\C#\Maskedbox -Picturebox - Datetimebox\Maskedbox -Picturebox - Datetimebox\obj\Debug\net6.0-windows\Maskedbox -Picturebox - Datetimebox.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Maskedbox -Picturebox - Datetimebox\Maskedbox -Picturebox - Datetimebox\obj\Debug\net6.0-windows\Maskedbox -Picturebox - Datetimebox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Web-Gelistirme\C#\Maskedbox -Picturebox - Datetimebox\Maskedbox -Picturebox - Datetimebox\obj\Debug\net6.0-windows\Maskedbox -Picturebox - Datetimebox.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Maskedbox -Picturebox - Datetimebox\Maskedbox -Picturebox - Datetimebox\obj\Debug\net6.0-windows\Maskedbox -Picturebox - Datetimebox.AssemblyInfo.cs
+C:\Users\User\Desktop\Web-Gelistirme\C#\Maskedbox -Picturebox - Datetimebox\Maskedbox -Picturebox - Datetimebox\obj\Debug\net6.0-windows\Maskedbox -Picturebox - Datetimebox.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Maskedbox -Picturebox - Datetimebox\Maskedbox -Picturebox - Datetimebox\obj\Debug\net6.0-windows\Maskedbox -Picturebox - Datetimebox.dll
+C:\Users\User\Desktop\Web-Gelistirme\C#\Maskedbox -Picturebox - Datetimebox\Maskedbox -Picturebox - Datetimebox\obj\Debug\net6.0-windows\refint\Maskedbox -Picturebox - Datetimebox.dll
+C:\Users\User\Desktop\Web-Gelistirme\C#\Maskedbox -Picturebox - Datetimebox\Maskedbox -Picturebox - Datetimebox\obj\Debug\net6.0-windows\Maskedbox -Picturebox - Datetimebox.pdb
+C:\Users\User\Desktop\Web-Gelistirme\C#\Maskedbox -Picturebox - Datetimebox\Maskedbox -Picturebox - Datetimebox\obj\Debug\net6.0-windows\Maskedbox -Picturebox - Datetimebox.genruntimeconfig.cache
+C:\Users\User\Desktop\Web-Gelistirme\C#\Maskedbox -Picturebox - Datetimebox\Maskedbox -Picturebox - Datetimebox\obj\Debug\net6.0-windows\ref\Maskedbox -Picturebox - Datetimebox.dll
